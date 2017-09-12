@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MyWebsite-Ajay</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      height:100%;
+      margin:auto;
+  
+  }
+  </style>
+
+</head>
+<body>
+
+
+
+<div class="navbar-default">
+
+<nav class="navbar navbar-default navbar-fixed-top navbar navbar-inverse">
+  <div class="container-fluid">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Ajay Srivats</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="file:///Users/Srivats6696/Desktop/Aboutme.html">About Me</a></li>
+        
+        <li><a href="file:///Users/Srivats6696/Desktop/Aw&Pub">Awards and Publications</a></li>
+        <li><a href="file:///Users/Srivats6696/Desktop/Skills.html">Skills</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Social Media <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://www.facebook.com/AjayWatts">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/ajay-srivats-83245b129/">Linkedin</a></li>
+            <li><a href="https://angel.co/ajay-srivats">Angel list</a></li>
+            
+            <li><a href="https://twitter.com/BrainFarts6696">Twitter</a></li>
+            
+            <li><a href="https://www.instagram.com/this_is_crap_bag/">Instagram</a></li>
+            
+          </ul>
+        </li>
+      </ul>
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+         <li><a href="file:///Users/Srivats6696/Desktop/abc123.html">Home</a></li>
+         <li><a href="file:///Users/Srivats6696/Desktop/ContactMe">Contact Me</a></li>
+         
+          
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</div>
+
+
+
+  <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">IESA Vision Summit Makeathon 2.0 FINALIST (2017)  <span class="text-muted"><br>Hotel Leela Palace , Bangalore</span></h2>
+          <p class="lead">One of the top 25 finalist teams from all over India , Created the world's first SCIK (Smart Cloud Integrated Kitchen) using the Intel Edison .With The rapid rise of innovation in the field of IoT based appliances and it’s applications most industries today are already well equipped with the required solid grade machinery and automation to more than proficiently perform any task. SCIK is for those industries that are not blessed with this luxury. Implementing the best of IoT , AI and OpenCV we bring the user an experience which is user friendly and precise. Giving the user easy to follow guidelines and procedures , Anyone can cook like a Michelin star restaurant Chef. The SCIK system is going to change the way we look at your kitchen. 
+   </p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" img src="http://iesa.makeathon.in/resources/images/static/banner.jpg" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">1st Prize - IoT Challenge , S.C.S.V.M.V University<br> <span class="text-muted"> Tamil Nadu Zonals</span></h2>
+          <p class="lead">Took part in a two day workshop and participated in an IoT based competition at the end of the workshop. Integrated GSM signal and temperature sensor to create a Temperature alert system connected to all mobile devices alerting the user when the temperature hits a certain threshold.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" img src="https://cdn-az.allevents.in/banners/ca68d024080fcdb180c2fa10660b4a26" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">3rd Prize VITCC Makeathon 2.0  <span class="text-muted"> <br>VIT University , Chennai </span></h2>
+          <p class="lead">Bringing to you PHYSICAL HOME AUTOMATION. Adding a whole new dimension to the idea of Automating a house. Bringing the Physical aspect into play , Our innovation makes it possible for anyone in this world to not only control his homely appliances but also perform physical tasks and communicate with devices present at home. This is done through a robot which is controlled wirelessly using simple gestures made by your palm. To remotely control this we have equipped it with a Camera that live streams wirelessly to an IP. Adding features to it like Gesture controls , Camera and also giving it claws of it own to perform everyday homely tasks that you may have forgotten to do whilst away. Also we are taking Home automation to the next level with a fully functional android application that lets you give voice commands from anywhere in the world like “ Hall lights off”  or “ Kitchen lights on” or  “ Turn off the stove “ and maybe even “ Run the washing machine”</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" img src="https://scontent.fmaa1-1.fna.fbcdn.net/v/t31.0-8/14706855_711155245701020_7537942082302525343_o.jpg?oh=cd5c9b4a02cd61d0269db597e6393cfb&oe=59913210" width ="400" height="450" alt="Generic placeholder image">
+        </div>
+      
+
+
+        <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+
+      </div>
+
+      <hr class="featurette-divider">
+
+
+
+
+
+</body>
+
+</html>
